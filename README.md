@@ -4,8 +4,6 @@
 
 <h1>CPSC 441</h1>
 
-<p>Web Server is Alive and Running.</p>
-
 <p>Available Files:</p>
 
 <p><a href="large.jpg">large.jpg</a></p>
