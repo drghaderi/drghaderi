@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**drghaderi/drghaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>CPSC 441</h1>
+
+<p>Web Server is Alive and Running.</p>
+
+<p>Available Files:</p>
+
+<p><a href="large.jpg">large.jpg</a></p>
+
+<p><a href="large.pdf">large.pdf</a></p>
+
+<p><a href="medium.txt">medium.txt</a></p>
+
+<p><a href="medium.pdf">medium.pdf</a></p>
+
+<p><a href="small.txt">small.txt</a></p>
+
+<p><a href="small.pdf">small.pdf</a></p>
+
+
+</body>
+
+</html>
