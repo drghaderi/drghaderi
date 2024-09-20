@@ -2,6 +2,8 @@
 
 <html>
 
+<body>
+  
 <h1>CPSC 441</h1>
 
 <p>Available Files:</p>
